@@ -279,6 +279,7 @@ E:\Prueba\API\API_Banca\Banca.Application.UnitTests\obj\Debug\net8.0\Banca.Appli
 E:\Prueba\API\API_Banca\Banca.Application.UnitTests\obj\Debug\net8.0\Banca.Application.UnitTests.AssemblyInfoInputs.cache
 E:\Prueba\API\API_Banca\Banca.Application.UnitTests\obj\Debug\net8.0\Banca.Application.UnitTests.AssemblyInfo.cs
 E:\Prueba\API\API_Banca\Banca.Application.UnitTests\obj\Debug\net8.0\Banca.Application.UnitTests.csproj.CoreCompileInputs.cache
+E:\Prueba\API\API_Banca\Banca.Application.UnitTests\obj\Debug\net8.0\Banca.Application.UnitTests.sourcelink.json
 E:\Prueba\API\API_Banca\Banca.Application.UnitTests\obj\Debug\net8.0\Banca.Ap.6E203B4C.Up2Date
 E:\Prueba\API\API_Banca\Banca.Application.UnitTests\obj\Debug\net8.0\Banca.Application.UnitTests.dll
 E:\Prueba\API\API_Banca\Banca.Application.UnitTests\obj\Debug\net8.0\refint\Banca.Application.UnitTests.dll

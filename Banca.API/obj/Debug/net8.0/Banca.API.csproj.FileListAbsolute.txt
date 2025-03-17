@@ -193,6 +193,7 @@ E:\Prueba\API\API_Banca\Banca.API\obj\Debug\net8.0\Banca.API.AssemblyInfo.cs
 E:\Prueba\API\API_Banca\Banca.API\obj\Debug\net8.0\Banca.API.csproj.CoreCompileInputs.cache
 E:\Prueba\API\API_Banca\Banca.API\obj\Debug\net8.0\Banca.API.MvcApplicationPartsAssemblyInfo.cs
 E:\Prueba\API\API_Banca\Banca.API\obj\Debug\net8.0\Banca.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Prueba\API\API_Banca\Banca.API\obj\Debug\net8.0\Banca.API.sourcelink.json
 E:\Prueba\API\API_Banca\Banca.API\obj\Debug\net8.0\scopedcss\bundle\Banca.API.styles.css
 E:\Prueba\API\API_Banca\Banca.API\obj\Debug\net8.0\staticwebassets.build.json
 E:\Prueba\API\API_Banca\Banca.API\obj\Debug\net8.0\staticwebassets.development.json

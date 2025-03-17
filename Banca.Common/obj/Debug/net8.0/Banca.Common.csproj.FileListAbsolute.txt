@@ -6,6 +6,7 @@ E:\Prueba\API\API_Banca\Banca.Common\obj\Debug\net8.0\Banca.Common.GeneratedMSBu
 E:\Prueba\API\API_Banca\Banca.Common\obj\Debug\net8.0\Banca.Common.AssemblyInfoInputs.cache
 E:\Prueba\API\API_Banca\Banca.Common\obj\Debug\net8.0\Banca.Common.AssemblyInfo.cs
 E:\Prueba\API\API_Banca\Banca.Common\obj\Debug\net8.0\Banca.Common.csproj.CoreCompileInputs.cache
+E:\Prueba\API\API_Banca\Banca.Common\obj\Debug\net8.0\Banca.Common.sourcelink.json
 E:\Prueba\API\API_Banca\Banca.Common\obj\Debug\net8.0\Banca.Common.dll
 E:\Prueba\API\API_Banca\Banca.Common\obj\Debug\net8.0\refint\Banca.Common.dll
 E:\Prueba\API\API_Banca\Banca.Common\obj\Debug\net8.0\Banca.Common.pdb
