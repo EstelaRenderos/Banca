@@ -1,0 +1,274 @@
+[
+  {
+    "ContainingType": "Banca.API.Controllers.AccountController",
+    "Method": "CreateAccount",
+    "RelativePath": "api/Account/CreateAccount",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Banca.Application.Features.Accounts.Commands.CreateAccounts.CreateAccountCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Banca.API.Controllers.AccountController",
+    "Method": "DeleteAccount",
+    "RelativePath": "api/Account/DeleteAccount",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Banca.Application.Features.Accounts.Commands.DeleteAccounts.DeleteAccountCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Banca.API.Controllers.AccountController",
+    "Method": "GetAllAccount",
+    "RelativePath": "api/Account/GetAllAccount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Query",
+        "Type": "Banca.Application.Features.Accounts.Queries.GetAllAccounts.GetAllAccountQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Banca.API.Controllers.AccountController",
+    "Method": "GetByIdAccount",
+    "RelativePath": "api/Account/GetByIdAccount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Query",
+        "Type": "Banca.Application.Features.Accounts.Queries.GetAccountById.GetAccountByIdQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Banca.API.Controllers.AccountController",
+    "Method": "UpdateAccount",
+    "RelativePath": "api/Account/UpdateAccount",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Banca.Application.Features.Accounts.Commands.UpdateAccounts.UpdateAccountCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Banca.API.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Banca.Application.DTOs.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Banca.API.Controllers.TransactionController",
+    "Method": "CreateTransaction",
+    "RelativePath": "api/Transaction/CreateTransaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Banca.Application.Features.Transactions.Commands.CreateTransactions.CreateTransactionCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Banca.API.Controllers.TransactionController",
+    "Method": "DeleteTransaction",
+    "RelativePath": "api/Transaction/DeleteTransaction",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Banca.Application.Features.Transactions.Commands.DeleteTransactions.DeleteTransactionCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Banca.API.Controllers.TransactionController",
+    "Method": "GetAllTransaction",
+    "RelativePath": "api/Transaction/GetAllTransaction",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Query",
+        "Type": "Banca.Application.Features.Transactions.Queries.GetAllTransactions.GetAllTransactionsQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Banca.API.Controllers.TransactionController",
+    "Method": "GetByIdTransaction",
+    "RelativePath": "api/Transaction/GetByIdTransaction",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Query",
+        "Type": "Banca.Application.Features.Transactions.Queries.GetTransactionById.GetTransactionByIdQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Banca.API.Controllers.TransactionController",
+    "Method": "UpdateTransaction",
+    "RelativePath": "api/Transaction/UpdateTransaction",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Banca.Application.Features.Transactions.Commands.UpdateTransactions.UpdateTransactionCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Banca.API.Controllers.TransferController",
+    "Method": "CreateTransfer",
+    "RelativePath": "api/Transfer/CreateTransfer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Banca.Application.Features.Transfers.Commands.CreateTransfer.CreateTransferCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Banca.API.Controllers.TransferController",
+    "Method": "DeleteTransfer",
+    "RelativePath": "api/Transfer/DeleteTransfer",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Banca.Application.Features.Transfers.Commands.DeleteTransfer.DeleteTransferCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Banca.API.Controllers.TransferController",
+    "Method": "GetAllTransfer",
+    "RelativePath": "api/Transfer/GetAllTransfer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Query",
+        "Type": "Banca.Application.Features.Transfers.Queries.GetAllTransfers.GetAllTransfersQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Banca.API.Controllers.TransferController",
+    "Method": "GetByIdTransfer",
+    "RelativePath": "api/Transfer/GetByIdTransfer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Query",
+        "Type": "Banca.Application.Features.Transfers.Queries.GetTransferById.GetTransferByIdQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Banca.API.Controllers.TransferController",
+    "Method": "UpdateTransfer",
+    "RelativePath": "api/Transfer/UpdateTransfer",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Banca.Application.Features.Transfers.Commands.UpdateTransfer.UpdateTransferCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Banca.API.Controllers.UserController",
+    "Method": "CreateUser",
+    "RelativePath": "api/User/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Banca.Application.DTOs.User.CreateUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

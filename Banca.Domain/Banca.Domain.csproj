@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Entities\AccountType.cs~RF699f6d.TMP" />
+    <None Remove="Entities\Transfer.cs~RF194473d.TMP" />
+    <None Remove="Entities\Transfer.cs~RF7fd96e.TMP" />
+    <None Remove="Entities\Transfer.cs~RF8eb246.TMP" />
+    <None Remove="Entities\Transfer.cs~RFf93f8e.TMP" />
+    <None Remove="Entities\TransferType.cs~RF12636b9.TMP" />
+    <None Remove="Entities\User.cs~RF24039ac.TMP" />
+    <None Remove="Interfaces\IAccountRepository.cs~RFa837e7.TMP" />
+    <None Remove="Interfaces\IAccountRepository.cs~RFbb059f.TMP" />
+    <None Remove="Interfaces\ITransactionRepository.cs~RF10f42df.TMP" />
+    <None Remove="Interfaces\ITransactionRepository.cs~RFac7153.TMP" />
+    <None Remove="Interfaces\ITransactionRepository.cs~RFd80842.TMP" />
+    <None Remove="Interfaces\ITransactionRepository.cs~RFe25aa7.TMP" />
+    <None Remove="Interfaces\ITransactionType.cs~RF19d7e6e.TMP" />
+    <None Remove="Interfaces\ITransferRepository.cs~RF101245e.TMP" />
+    <None Remove="Interfaces\ITransferRepository.cs~RF2a2a346.TMP" />
+    <None Remove="Interfaces\ITransferRepository.cs~RF2ac18d8.TMP" />
+    <None Remove="Interfaces\ITransferType.cs~RF12c6fed.TMP" />
+    <None Remove="Interfaces\IUserRepository.cs~RF1c90948.TMP" />
+    <None Remove="Interfaces\IUserRepository.cs~RF338265c.TMP" />
+    <None Remove="Interfaces\IUserRepository.cs~RFe9fa21.TMP" />
+    <None Remove="Strategies\Transactions\ITransactionStrategy.cs~RFa3f97a.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="MediatR" Version="12.4.1" />
+	  <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+E:\Prueba\API\API_Banca\Banca.Domain\bin\Debug\net8.0\Banca.Domain.deps.json
+E:\Prueba\API\API_Banca\Banca.Domain\bin\Debug\net8.0\Banca.Domain.dll
+E:\Prueba\API\API_Banca\Banca.Domain\bin\Debug\net8.0\Banca.Domain.pdb
+E:\Prueba\API\API_Banca\Banca.Domain\obj\Debug\net8.0\Banca.Domain.csproj.AssemblyReference.cache
+E:\Prueba\API\API_Banca\Banca.Domain\obj\Debug\net8.0\Banca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prueba\API\API_Banca\Banca.Domain\obj\Debug\net8.0\Banca.Domain.AssemblyInfoInputs.cache
+E:\Prueba\API\API_Banca\Banca.Domain\obj\Debug\net8.0\Banca.Domain.AssemblyInfo.cs
+E:\Prueba\API\API_Banca\Banca.Domain\obj\Debug\net8.0\Banca.Domain.csproj.CoreCompileInputs.cache
+E:\Prueba\API\API_Banca\Banca.Domain\obj\Debug\net8.0\Banca.Domain.dll
+E:\Prueba\API\API_Banca\Banca.Domain\obj\Debug\net8.0\refint\Banca.Domain.dll
+E:\Prueba\API\API_Banca\Banca.Domain\obj\Debug\net8.0\Banca.Domain.pdb
+E:\Prueba\API\API_Banca\Banca.Domain\obj\Debug\net8.0\ref\Banca.Domain.dll

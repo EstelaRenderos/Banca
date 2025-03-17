@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="DTOs\HmacRequest.cs~RF1b74195.TMP" />
+    <None Remove="Features\Accounts\Commands\CreateAccountCommand.cs~RF2c1c29f.TMP" />
+    <None Remove="Features\Accounts\Commands\DeleteAccounts\DeleteAccountCommandValidator.cs~RFfed6b5.TMP" />
+    <None Remove="Features\Accounts\Commands\UpdateAccountCommand.cs~RF13642d1.TMP" />
+    <None Remove="Features\Transactions\Commands\CreateTransactions\CreateTransactionCommand.cs~RF17c2590.TMP" />
+    <None Remove="Features\Transactions\Commands\DeleteTransactions\DeleteTransactionCommandValidator.cs~RF16631ff.TMP" />
+    <None Remove="Features\Transactions\Commands\DeleteTransactions\DeleteTransactionCommandValidator.cs~RF179f2b3.TMP" />
+    <None Remove="Features\Transactions\GetTransactionByIdQuery.cs~RF10c1797.TMP" />
+    <None Remove="Features\Transactions\GetTransactionByIdQuery.cs~RF10d1e97.TMP" />
+    <None Remove="Features\TransactionType\Queries\GetTransactionIdByCode\GetTransactionByCodeHandler.cs~RFd1e94e.TMP" />
+    <None Remove="Features\TransactionType\Queries\GetTransactionTypeByIdQuery.cs~RF72c51a.TMP" />
+    <None Remove="Features\Transfers\Commands\DeleteTransfer\DeleteTransferCommandValidator.cs~RF23b9c94.TMP" />
+    <None Remove="Features\TransferType\Queries\GetTransfersTypeById\GetTransfersTypeByIdQueryHandler.cs~RF143172e.TMP" />
+    <None Remove="Services\TransactionService\ITransactionService.cs~RF6fb6c1.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="14.0.0" />
+    <PackageReference Include="FluentValidation" Version="11.11.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.11.0" />
+	<PackageReference Include="MediatR" Version="12.4.1" />
+	<PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="9.0.3" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="9.0.2" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.6.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Banca.Common\Banca.Common.csproj" />
+    <ProjectReference Include="..\Banca.Domain\Banca.Domain.csproj" />
+    <ProjectReference Include="..\Banca.Infrastructure\Banca.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\User\Commands\DeleteUser\" />
+    <Folder Include="Features\User\Commands\UpdateUser\" />
+    <Folder Include="Features\User\Queries\GetuserById\" />
+    <Folder Include="Features\User\Queries\GetAllUsers\" />
+  </ItemGroup>
+
+</Project>
